@@ -1,0 +1,64 @@
+Boggus Poggus Group
+
+Program Controls: 
+WASD to move 
+Z to use Sword
+X to use slot B
+Tab to open Inventory
+P to Pause Game
+Up/Down Keys to traverse pause and options menu
+Left/Right to change options in options menu
+Back to return to pause screen from options menu
+Enter to select button on pause menu
+Q to quit game
+J to generate new dungeon
+R to reset game
+
+
+
+Extras Implemented:
+Pause Menu: sprite credits go to:https://www.spriters-resource.com/ds_dsi/wreckitralph/sheet/62107/
+Difficulty selection in options menu
+Sound changing in options menu
+Procedual dungeon generation
+
+Note:
+Inventory Selection not fully implemented
+
+We used code metrics to keep track of varying stats about our code base to try and get a general idea of how everything is progressing.
+
+Sprint 2:
+Project: Sprint0
+Configuration: Debug
+Scope: Assembly
+Assembly: C:\Users\Michael\source\repos\ZTungate\Au2021-3902\Sprint0\bin\Debug\netcoreapp3.1\Sprint0.dll
+Maintainability Index: 87
+Cyclomatic Complexity: 1,937
+Depth of Inheritance: 2
+Class Coupling: 189
+Lines of Source code: 7,313
+Lines of Executable code: 1,835
+
+Sprint 3:
+Project: Sprint0
+Configuration: Debug
+Scope: Assembly
+Assembly: C:\Users\Zach\source\repos\ZTungate\Au2021-3902\Sprint0\bin\Debug\netcoreapp3.1\Sprint0.dll
+Maintainability Index: 86
+Cyclomatic Complexity: 2,476
+Depth of Inheritance: 2
+Class Coupling: 239
+Lines of Source code: 10,079
+Lines of Executable code: 2,713
+
+Sprint 4:
+Project: Sprint0
+Configuration: Debug
+Scope: Assembly
+Assembly: C:\Users\Zach\source\repos\ZTungate\Au2021-3902\Sprint0\bin\Debug\netcoreapp3.1\Sprint0.dll
+Maintainability Index: 84
+Cyclomatic Complexity: 1,528
+Depth of Inheritance: 2
+Class Coupling: 265
+Lines of Source code: 9,103
+Lines of Executable code: 2,267
